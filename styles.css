@@ -1,0 +1,19 @@
+body {
+    background-color: #1a202c;
+    color: #a0aec0;
+}
+
+#header {
+    text-align: center;
+    padding: 20px;
+}
+
+#main-content {
+    margin: 0 auto;
+    width: 80%;
+}
+
+#footer {
+    text-align: center;
+    padding: 20px;
+}
